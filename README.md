@@ -1,2 +1,5 @@
-# Motorola-Mobile-Sales-Analysis-PowerBI
-Interactive Motorola Mobile Sales Analysis Dashboard built using Power BI. Analyzes 769M total sales, 19K units sold, 4K transactions, brand performance, mobile models, city-wise sales, customer ratings, payment methods, and monthly sales trends through dynamic visualizations and interactive filters.
+Motorola Sales Analysis Dashboard – Power BI
+
+Project Overview
+
+The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile phone sales performance across different cities, brands, mobile models, payment methods, and time periods. It provides meaningful business insights through interactive charts, KPIs, maps, and data visualizations to help understand sales trends, customer behavior, and overall business performance.
