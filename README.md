@@ -1,8 +1,8 @@
-# Motorola Sales Analysis Dashboard – Power BI
+# Mobile Sales Analysis Dashboard – Power BI
 
 ## Project Overview
 
-The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile phone sales performance across different cities, brands, mobile models, payment methods, and time periods. It provides meaningful business insights through interactive charts, KPIs, maps, and data visualizations to help understand sales trends, customer behavior, and overall business performance.
+The Mobile Sales Analysis Dashboard is an interactive Power BI dashboard designed to analyze and visualize mobile phone sales performance across different cities, brands, mobile models, payment methods, and time periods. It provides meaningful business insights through interactive charts, KPIs, maps, and data visualizations to help understand sales trends, customer behavior, and overall business performance.
 
 ## Dataset Used
 - <a href="https://github.com/Rahul373378/Motorola-Mobile-Sales-Analysis-PowerBI/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">Dataset</a>
@@ -21,3 +21,15 @@ The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard desig
 
 ## Dashboard Interaction
 - <a href="https://github.com/Rahul373378/Motorola-Mobile-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-11-02%20075231.png">Dashboard</a>
+## Process
+Project Process – Mobile Sales Analysis
+1. Data Collection: Imported mobile sales data from Excel.
+2. Data Cleaning: Removed duplicates, handled missing values and corrected data types.
+3. Data Transformation: Prepared and organized data using Power Query.
+4. DAX Calculations: Created KPIs such as Total Sales, Total Quantity, Transactions and Average Sales.
+5. Data Visualization: Created charts for brand-wise, city-wise, monthly and payment-wise sales.
+6. Dashboard Development: Designed an interactive Power BI dashboard with slicers and filters.
+7. Business Insights: Analyzed sales trends, customer preferences and top-performing brands.
+Tools Used: Microsoft Excel | Power BI | Power Query | DAX
+
+
