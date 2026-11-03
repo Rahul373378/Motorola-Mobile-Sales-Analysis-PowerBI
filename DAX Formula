@@ -1,0 +1,91 @@
+DAX Formulas Used in Motorola Mobile Sales Analysis – Power BI
+The following DAX formulas can be used to calculate KPIs and analyze sales performance in thise project.
+
+1. Total Sales
+Total Sales =
+SUMX(
+    Sales,
+    Sales[Units Sold] * Sales[Price Per Unit]
+)
+
+
+2. Total Quantity Sold
+Total Quantity =
+SUM(Sales[Units Sold])
+
+
+3. Total Transactions
+Total Transactions =
+DISTINCTCOUNT(Sales[Transaction ID])
+
+
+4. Average Sales
+Average Sales =
+AVERAGE(Sales[Price Per Unit])
+
+
+5. Average Customer Rating
+Average Rating =
+AVERAGE(Sales[Customer Ratings])
+
+
+6. Total Brands
+Total Brands =
+DISTINCTCOUNT(Sales[Brand])
+
+
+7. Total Cities
+Total Cities =
+DISTINCTCOUNT(Sales[City])
+
+
+8. Total Mobile Models
+Total Models =
+DISTINCTCOUNT(Sales[Mobile Model])
+
+
+9. Sales by Brand
+Brand Sales =
+[Total Sales]
+
+
+Use Brand as the category in your chart.
+10. Sales by Month
+Monthly Sales =
+[Total Sales]
+
+
+Use Month on the X-axis and Monthly Sales on the Y-axis.
+11. Sales by Payment Method
+Payment Sales =
+[Total Sales]
+
+
+Use Payment Method as the category.
+12. Sales Percentage
+Sales Percentage =
+DIVIDE(
+    [Total Sales],
+    CALCULATE(
+        [Total Sales],
+        ALL(Sales[Brand])
+    ),
+    0
+)
+
+
+Format this measure as Percentage.
+
+DAX Functions Used in This Project
+DAX Function	Purpose
+SUM()	Calculate total quantity
+SUMX()	Calculate total sales
+AVERAGE()	Calculate average sales and ratings
+DISTINCTCOUNT()	Count unique transactions
+CALCULATE()	Modify filter context
+ALL()	Remove filters
+DIVIDE()	Perform safe division
+DATE()	Create date values
+FORMAT()	Format values
+
+Note: Replace Sales with your actual Power BI table name if it is different.
