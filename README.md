@@ -7,7 +7,7 @@ The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard desig
 ## Dataset Used
 - <a href="https://github.com/Rahul373378/Motorola-Mobile-Sales-Analysis-PowerBI/blob/main/Day%20-%2030%20-%20Mobile%20Sales%20Data.xlsx">Dataset</a>
 
-## KPIs-Based Questions
+## KPIs
 1. What is the total sales revenue?
 2. How many mobile units were sold?
 3. What is the total number of transactions?
@@ -22,7 +22,6 @@ The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard desig
 ## Dashboard Interaction
 - <a href="https://github.com/Rahul373378/Motorola-Mobile-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-11-02%20075231.png">Dashboard</a>
 ## Process
-Project Process – Mobile Sales Analysis
 1. Data Collection: Imported mobile sales data from Excel.
 2. Data Cleaning: Removed duplicates, handled missing values and corrected data types.
 3. Data Transformation: Prepared and organized data using Power Query.
