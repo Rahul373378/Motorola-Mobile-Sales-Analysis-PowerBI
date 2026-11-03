@@ -32,4 +32,6 @@ Project Process – Mobile Sales Analysis
 7. Business Insights: Analyzed sales trends, customer preferences and top-performing brands.
 Tools Used: Microsoft Excel | Power BI | Power Query | DAX
 
+## Dashboard
+<img width="2010" height="1128" alt="Screenshot 2026-11-02 075231" src="https://github.com/user-attachments/assets/73dbd303-20c5-4530-acf7-2e236563ebe9" />
 
