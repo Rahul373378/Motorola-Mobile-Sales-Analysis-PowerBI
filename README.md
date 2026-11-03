@@ -20,3 +20,4 @@ The Motorola Sales Analysis Dashboard is an interactive Power BI dashboard desig
 10. Which day has the highest sales?
 
 ## Dashboard Interaction
+- <a href="https://github.com/Rahul373378/Motorola-Mobile-Sales-Analysis-PowerBI/blob/main/Screenshot%202026-11-02%20075231.png">Dashboard</a>
