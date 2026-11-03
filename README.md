@@ -35,7 +35,7 @@ Tools Used: Microsoft Excel | Power BI | Power Query | DAX
 ## Dashboard
 <img width="2010" height="1128" alt="Screenshot 2026-11-02 075231" src="https://github.com/user-attachments/assets/73dbd303-20c5-4530-acf7-2e236563ebe9" />
 
-##Project Insights – Motorola Mobile Sales Analysis
+## Project Insights
 1. Overall Sales: Generated total sales of 769.20M across 3,835 transactions, with 19,150 mobile units sold.
 2. Top Performing Brand: Apple achieved the highest sales revenue, followed closely by Samsung and OnePlus.
 3. Best-Selling Model: iPhone SE recorded the highest sales revenue among all mobile models.
@@ -47,7 +47,7 @@ Tools Used: Microsoft Excel | Power BI | Power Query | DAX
 Key Takeaway: Apple, iPhone SE, Delhi, and UPI were the leading performers in their respective categories.
 
 
-##Final Conclusion – Motorola Mobile Sales Analysis.
+## Final Conclusion
 The Motorola Mobile Sales Analysis project successfully transformed raw sales data into meaningful business insights using Power BI. The interactive dashboard provides a clear overview of sales performance, customer preferences, brand performance, and geographical trends. By analyzing key KPIs and sales patterns, businesses can identify top-performing products, understand customer behavior, and make data-driven decisions to improve sales strategies and overall business performance.
 
 Overall Outcome: Developed an interactive Power BI dashboard that simplifies sales monitoring, identifies business opportunities, and supports effective decision-making.
