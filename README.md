@@ -47,7 +47,7 @@ Tools Used: Microsoft Excel | Power BI | Power Query | DAX
 Key Takeaway: Apple, iPhone SE, Delhi, and UPI were the leading performers in their respective categories.
 
 
-##Final Conclusion – Motorola Mobile Sales Analysis
+##Final Conclusion – Motorola Mobile Sales Analysis.
 The Motorola Mobile Sales Analysis project successfully transformed raw sales data into meaningful business insights using Power BI. The interactive dashboard provides a clear overview of sales performance, customer preferences, brand performance, and geographical trends. By analyzing key KPIs and sales patterns, businesses can identify top-performing products, understand customer behavior, and make data-driven decisions to improve sales strategies and overall business performance.
 
 Overall Outcome: Developed an interactive Power BI dashboard that simplifies sales monitoring, identifies business opportunities, and supports effective decision-making.
